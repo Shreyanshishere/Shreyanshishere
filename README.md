@@ -1,7 +1,7 @@
-![logo](https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif)
+
 <h1 align="center">Hi 👋, I'm Shreyansh Gupta</h1>
 <h3 align="center">A passionate engineering student from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/DYOXwjlumRddshn7-8eQeJvsTAkQelbuGKJ4MpSRWpw/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC40/Zk5CT19VRFlFVnhN/MEU1VDJGeUpRSGFG/aiZwaWQ9QXBp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshishere&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshishere" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
